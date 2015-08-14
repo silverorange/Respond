@@ -1,7 +1,7 @@
 {
 	"name": "Respond.js",
 	"description": "min/max-width media query polyfill. Beta release by silverorange.",
-	"version": "1.4.3-so.3",
+	"version": "1.4.3-so.1",
 	"homepage": "https://github.com/silverorange/Respond",
 	"author": {
 		"name": "Scott Jehl",

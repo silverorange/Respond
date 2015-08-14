@@ -1,4 +1,4 @@
-/*! Respond.js v1.4.3-so.3: min/max-width media query polyfill. Beta release by silverorange.
+/*! Respond.js v1.4.3-so.1: min/max-width media query polyfill. Beta release by silverorange.
  * Copyright 2015 Scott Jehl
  * Licensed under MIT
  * https://github.com/silverorange/Respond */
